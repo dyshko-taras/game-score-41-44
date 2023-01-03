@@ -14,7 +14,7 @@
         android:theme="@style/Theme.GameScore"
         tools:targetApi="31">
         <activity
-            android:name=".Result"
+            android:name=".ResultActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
